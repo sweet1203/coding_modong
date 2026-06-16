@@ -1,0 +1,6 @@
+{
+  "name": "Cozy Informatics Forest",
+  "description": "An interactive, Animal Crossing-themed informatics learning space for high school students to explore programming, data, and AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

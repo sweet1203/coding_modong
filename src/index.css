@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Jua&family=Nanum+Gothic:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Jua", sans-serif;
+  --font-cozy: "Gamja Flower", sans-serif;
+  --font-sans: "Nanum Gothic", sans-serif;
+}
